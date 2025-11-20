@@ -19,17 +19,10 @@ The output format follows the sample given in the task (row numbers, column numb
 2. Save the file as `GridHighlighter.java`.
 3. Open terminal in the same folder.
 4. Run:
-   javac GridHighlighter.java
+  `` javac GridHighlighter.java``
 6. Then run:
-   java GridHighlighter
+  `` java GridHighlighter``
 
    
-## Notes
-- The program checks for invalid inputs (like letters, odd numbers, and out-of-range numbers).
-- Only even numbers from 2 to 20 are allowed for highlighting.
-- The grid spacing is kept simple so it matches the required output.
 
-## Author
-Sakthi Bhuvaeshwar (Bhuvi)
-B.Tech IT – Nandha Engineering College
 
